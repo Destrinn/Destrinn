@@ -33,9 +33,8 @@ Pronouns: They/Them
 
 <br>
 
-<center> 
-![serial-experiments-lain-sleepy](https://github.com/Destrinn/Destrinn/assets/141870172/f75048d2-1222-48d4-b247-b2c797c4e9b9)
-</center>
+![Uploading serial-experiments-lain-sleepy.gif…]()
+
 
 
 
