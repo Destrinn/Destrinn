@@ -2,11 +2,17 @@
 ## Welcome to my github profile. 👋 
 
 Studying in Cubos Academy! I'm a back-end developer.
+<br>
 I'm learning Javascript and Python.
+<br>
 I am a chef and gastronomic consultant in transition to dev. 👨‍🍳🔪
+<br>
 During my career in the kitchen I developed valuable skills in dealing with problems, general public, teamwork and organization. ⚡⚡⚡
+<br>
 I'm from Brazil, São Paulo.
+<br>
 Curiosities: passionate about skateboarding, surf and running. 🏃🏃🏃
+<br>
 Pronouns: They/Them
 
 ### Tools and technologies
