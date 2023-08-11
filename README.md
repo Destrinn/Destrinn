@@ -31,7 +31,7 @@ Pronouns: They/Them
 <a href = "destro157@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
 </div>
 
-
+![cat-typing](https://github.com/Destrinn/Destrinn/assets/141870172/1d2ea1b6-431b-4e40-afe9-987873dc419e)
 
 
 
