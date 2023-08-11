@@ -13,7 +13,7 @@ Pronouns: They/Them
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" witdh="100px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" witdh="100px" />
-<i class="devicon-javascript-plain colored"></i>
+<i class="devicon-javascript-plain colored" witdh="100px"  ></i>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" witdh="100px"  />
 </div>
 
