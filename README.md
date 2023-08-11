@@ -30,6 +30,7 @@ Pronouns: They/Them
 <a href = "destro157@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
 </div>
 
+<div class="tenor-gif-embed" data-postid="17807642" data-share-method="host" data-aspect-ratio="1.35021" data-width="100%"><a href="https://tenor.com/view/keyboard-computer-pc-windows10-courage-gif-17807642">Keyboard Computer GIF</a>from <a href="https://tenor.com/search/keyboard-gifs">Keyboard GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 
 
