@@ -7,7 +7,7 @@ I'm learning Javascript and Python.
 <br>
 I am a chef and gastronomic consultant in transition to dev. 👨‍🍳🔪
 <br>
-During my career in the kitchen I developed valuable skills in dealing with problems, general public, teamwork and organization. ⚡⚡⚡
+During my career in the kitchen I developed soft skills in dealing with problems, general public, teamwork and organization. ⚡⚡
 <br>
 I'm from Brazil, São Paulo.
 <br>
