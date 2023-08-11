@@ -1,4 +1,31 @@
-### Hi there 👋
+# Hello, Devs!! I am Matheus Destro
+## Welcome to my github profile. 👋 
+
+Studying in Cubos Academy! I'm a back-end developer.
+I'm learning Javascript and Python.
+I am a chef and gastronomic consultant in transition to dev. 👨‍🍳🔪
+During my career in the kitchen I developed valuable skills in dealing with problems, general public, teamwork and organization. ⚡⚡⚡
+I'm from Brazil, São Paulo.
+Curiosities: passionate about skateboarding, surf and running. 🏃🏃🏃
+Pronouns: They/Them
+
+### Tools and technologies
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+<i class="devicon-javascript-plain colored"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" />
+</div>
+
+### Contatc:
+<div>
+<a href="https://www.instagram.com/theus._rocha/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/matheus-destro-3b4a39155/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href = "destro157@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
+</div>
+
+
+
 
 <!--
 **Destrinn/Destrinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
