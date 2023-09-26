@@ -3,7 +3,7 @@
 
 Studying in Cubos Academy! I'm a back-end developer. 📚📚
 <br>
-I'm learning Javascript and Python. 🐍🐍
+I'm learning Node.JS.
 <br>
 I am a chef and gastronomic consultant in transition to dev. 👨‍🍳🔪
 <br>
