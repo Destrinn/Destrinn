@@ -1,11 +1,11 @@
 # Hey Dev's!👋
 
-I am Matheus Destro! a chef and gastronomic consultant, graduated  in 2021. However, currently, I am redirecting my career towards the field of technology.
+I am Matheus Destro! a chef and gastronomic consultant, graduated  in 2021. However, currently, I am redirecting my career towards the field of technology. 
 <br>
 Dev Back-end | SQL | Node.js | Python 
 ## About Me
 
-<img align="right" width="300" src="https://lh4.ggpht.com/_aFxWwpT3KDg/SuyLatmxH4I/AAAAAAAAADk/gLuLHPqsPx8/s400/tibia.png" />
+<img align="right" width="400" src="https://lh4.ggpht.com/_aFxWwpT3KDg/SuyLatmxH4I/AAAAAAAAADk/gLuLHPqsPx8/s400/tibia.png" />
 
 
 ```kotlin
@@ -16,7 +16,7 @@ object **Theus** {
  val primarySkillset = "Teamwork, organization, self knowledge"
  val languages = listOf("SQL", "Node.js", "Express", "React")
  val email = "matheus-destro@outlook.com"
-
+ val hobby = listOf("Tibia", "Skatebording", "Running", "gym")
 }
 ```
 
