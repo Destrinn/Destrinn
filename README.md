@@ -12,7 +12,7 @@ object **Theus** {
  val name = "Matheus Rocha Destro"
  val acknowledgements = "Dev Backend"
 
- val primarySkillset = "ALGUMAS HABILIDADES"
+ val primarySkillset = "Teamwork, organization, self knowledge"
  val languages = listOf("Python", "Npde.js", "Express", "React")
  val email = "matheus-destro@outlook.com"
 
