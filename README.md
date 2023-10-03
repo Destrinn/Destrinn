@@ -37,7 +37,7 @@ object **Theus** {
 </a>
 
 <a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=destrinn&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=destrinn&show_icons=true&theme=dracula&line_height=27" alt="matheus github stats"/>
 </a>
 
 [instagram]: https://www.instagram.com/theus._rocha
