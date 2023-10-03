@@ -1,55 +1,25 @@
-# Hello, Devs!! I am Matheus Destro
-## Welcome to my github profile. 👋 
+<h1 align="center">Hi 👋, I'm Math Destro</h1>
+<h3 align="center">A backend developer in progress</h3>
 
-Studying in Cubos Academy! I'm a back-end developer. 📚📚
-<br>
-I'm learning Node.JS.
-<br>
-I am a chef and gastronomic consultant in transition to dev. 👨‍🍳🔪
-<br>
-During my career in the kitchen I developed soft skills in dealing with problems, general public, teamwork and organization. ⚡⚡
-<br>
-I'm from Brazil, São Paulo. 🌃🌃
-<br>
-Curiosities: passionate about skateboarding, surf and running. 🏃🏃🏃
-<br>
-Pronouns: They/Them
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=destrinn&label=Profile%20views&color=0e75b6&style=flat" alt="destrinn" /> </p>
 
-### Tools and technologies
-<div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50px" width="50px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="50px" width="50px"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50px" width="50px" />         
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" height="50px" width="50px"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="50px" width="50px" />
-</div>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=destrinn" alt="destrinn" /></a> </p>
 
-### Contatc:
-<div>
-<a href="https://www.linkedin.com/in/matheus-destro-3b4a39155/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href = "destro157@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
-</div>
+- Studying in **Cubos Academy**
 
-<br>
+- 🌱 I’m currently learning **node.js and angular**
 
+- 📫 How to reach me **matheus-destro@outlook.com**
 
-![cat-typing](https://github.com/Destrinn/Destrinn/assets/141870172/017edd73-d31b-49ef-8294-25d80e92c6bb)
+- ⚡ Fun fact **passionate about skateboarding, surf and running.**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/matheus-destro-3b4a39155/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/matheus-destro-3b4a39155/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/destro157?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/destro157?hr_r=1" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-
-
-<!--
-**Destrinn/Destrinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=destrinn&show_icons=true&locale=en" alt="destrinn" /></p>
