@@ -1,6 +1,7 @@
 # Hey Dev's!👋
 
 I am Matheus Destro! a chef and gastronomic consultant, graduated  in 2021. However, currently, I am redirecting my career towards the field of technology.
+<br>
 Dev Back-end | SQL | Node.js | Python 
 ## About Me
 
