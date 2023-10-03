@@ -1,55 +1,50 @@
-# Hello, Devs!! I am Matheus Destro
-## Welcome to my github profile. 👋 
+# Hey Dev's!👋
 
-Studying in Cubos Academy! I'm a back-end developer. 📚📚
+I am a chef and gastronomic consultant, graduated  in 2021. However, currently, I am redirecting my career towards the field of technology.
+
+## About Me
+
+<img align="right" width="300" src="https://lh4.ggpht.com/_aFxWwpT3KDg/SuyLatmxH4I/AAAAAAAAADk/gLuLHPqsPx8/s400/tibia.png" />
+
+
+```kotlin
+object **Theus** {
+ val name = "Matheus Rocha Destro"
+ val acknowledgements = "Dev Backend"
+
+ val primarySkillset = "ALGUMAS HABILIDADES"
+ val languages = listOf("Python", "Npde.js", "Express", "React")
+ val email = "matheus-destro@outlook.com"
+
+}
+```
+
+## Linguagens e ferramentas
+
+
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+
+## Status
+
+<a href="https://github.com/Gurupreet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=destrinn&theme=dracula&hide_langs_below=1" />
+</a>
+
+<a href="https://github.com/Gurupreet">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=destrinn&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+</a>
+
+[instagram]: https://www.instagram.com/theus._rocha
+[linkedin]: https://www.linkedin.com/in/theusdrocha/
+
 <br>
-I'm learning Node.JS.
-<br>
-I am a chef and gastronomic consultant in transition to dev. 👨‍🍳🔪
-<br>
-During my career in the kitchen I developed soft skills in dealing with problems, general public, teamwork and organization. ⚡⚡
-<br>
-I'm from Brazil, São Paulo. 🌃🌃
-<br>
-Curiosities: passionate about skateboarding, surf and running. 🏃🏃🏃
-<br>
-Pronouns: They/Them
 
-### Tools and technologies
-<div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50px" width="50px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="50px" width="50px"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50px" width="50px" />         
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" height="50px" width="50px"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="50px" width="50px" />
-</div>
+## Rede sociais
 
-### Contatc:
-<div>
-<a href="https://www.linkedin.com/in/matheus-destro-3b4a39155/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href = "destro157@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
-</div>
-
-<br>
-
-
-![cat-typing](https://github.com/Destrinn/Destrinn/assets/141870172/017edd73-d31b-49ef-8294-25d80e92c6bb)
-
-
-
-
-
-<!--
-**Destrinn/Destrinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📷 [Instagram][instagram] **|**
+👔 [LinkedIn][linkedin]
