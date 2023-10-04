@@ -11,7 +11,7 @@ Dev Back-end | SQL | Node.js | Python
 ```kotlin
 object **Theus** {
  val name = "Matheus Rocha Destro"
- val acknowledgements = "Dev Backend"
+ val knowledgement = "Dev Backend"
 
  val primarySkillset = "Teamwork, organization, self knowledge"
  val languages = listOf("SQL", "Node.js", "Express", "React")
