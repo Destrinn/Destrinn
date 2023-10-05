@@ -5,7 +5,7 @@ I'm Matheus Destro! a chef and gastronomic consultant, graduated  in 2021. Howev
 <br>
 ## About Me
 
-<img align="right" width="400" src="https://lh4.ggpht.com/_aFxWwpT3KDg/SuyLatmxH4I/AAAAAAAAADk/gLuLHPqsPx8/s400/tibia.png" />
+<img align="right" width="350" src="https://lh4.ggpht.com/_aFxWwpT3KDg/SuyLatmxH4I/AAAAAAAAADk/gLuLHPqsPx8/s400/tibia.png" />
 
 
 ```kotlin
