@@ -2,7 +2,7 @@
 
 I'm Matheus Destro! a chef and gastronomic consultant, graduated  in 2021. However, currently, I am redirecting my career towards the field of technology. 
 <br>
-Dev Back-end | SQL | Node.js | Python 
+<br>
 ## About Me
 
 <img align="right" width="400" src="https://lh4.ggpht.com/_aFxWwpT3KDg/SuyLatmxH4I/AAAAAAAAADk/gLuLHPqsPx8/s400/tibia.png" />
@@ -11,10 +11,9 @@ Dev Back-end | SQL | Node.js | Python
 ```kotlin
 object **Theus** {
  val name = "Matheus Rocha Destro"
- val knowledgement = "Dev Backend"
+ val titles = "Dev Back-end | SQL | Node.js | Python | Tec. em Gastronomia"
 
  val primarySkillset = "Teamwork, organization, self knowledge"
- val languages = listOf("SQL", "Node.js", "Express", "React")
  val email = "matheus-destro@outlook.com"
  val hobby = listOf("Tibia", "Skatebording", "Running", "gym")
 }
@@ -22,13 +21,7 @@ object **Theus** {
 
 ## languages ​​and tools
 
-
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,postman,ps,pr,py,vscode)](https://skillicons.dev)
 
 ## Status
 
