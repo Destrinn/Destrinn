@@ -26,13 +26,11 @@ object **Theus** {
 
 ## Status
 
-<a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=destrinn&theme=dracula&hide_langs_below=1" />
-</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=destrinn&theme=dracula&hide_langs_below=1)](https://github.com/Gurupreet)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=destrinn&show_icons=true&theme=dracula&line_height=27)](https://github.com/Gurupreet)
 
-<a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=destrinn&show_icons=true&theme=dracula&line_height=27" alt="matheus github stats"/>
-</a>
+
 
 [instagram]: https://www.instagram.com/theus._rocha
 [linkedin]: https://www.linkedin.com/in/theusdrocha/
