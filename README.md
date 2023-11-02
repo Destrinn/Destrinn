@@ -1,6 +1,7 @@
 # Hey Devs!👋
 
-I'm Matheus Destro! a chef and gastronomic consultant, graduated  in 2021. However, currently, I am redirecting my career towards the field of technology. 
+Prazer! Podem me chamar de Matheus, tenho 25 anos e sou formado em gastronomia, após dedicar 6 anos a culinária estou focado na transição de carreira para desenvolvedor de software.
+
 <br>
 <br>
 ## About Me
